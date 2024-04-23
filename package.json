@@ -18,6 +18,12 @@
     "mongodb": "^6.5.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "@vue/cli-service": "^4.5.0"
+  },
+
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
   }
 }
